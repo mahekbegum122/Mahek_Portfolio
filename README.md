@@ -234,10 +234,6 @@
 | Oracle AI Vector | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/Oracle_AI_VECTOR_PDF.jpg) |
 ---
 
-
-
----
-
 ## 🌱 Volunteer Experience
 
 ### 🌍 Bachpan Prayas

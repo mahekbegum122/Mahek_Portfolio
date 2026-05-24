@@ -10,7 +10,7 @@
 
 🎓 Information Technology Engineering Student
 
-📍 SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY | 📊 CGPA: 8.43
+📍 SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY | 📊 CGPA: 8.63
 
 📧 mahekbegum54@gmail.com
 

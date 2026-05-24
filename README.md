@@ -33,6 +33,29 @@
 </div>
 
 ---
+
+---
+
+## 👩‍💻 About Me
+
+<div align="center">
+
+💻 Passionate Software Engineer  
+🤖 AI/ML Enthusiast  
+🌐 Full Stack Developer  
+📚 Continuous Learner  
+
+</div>
+
+- 🎓 Final Year B.Tech Information Technology Student at Sreenidhi Institute of Science and Technology
+- 💡 Strong foundation in Java, Data Structures & Algorithms, SQL, and Full Stack Development
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Problem Solving
+- 🚀 Currently building **Skin_O_Cure**, an AI-powered skin disease detection web application
+- 📊 Experienced in Machine Learning projects, NLP, and Data Analytics
+- 🌱 Continuously learning System Design, Spring Boot, and Advanced Java
+- 🎯 Goal: To become a skilled Software Engineer and build impactful real-world solutions
+
+---
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
